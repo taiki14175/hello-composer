@@ -1,0 +1,15 @@
+{
+    "name": "funbrew/hello-composer",
+    "autoload": {
+        "psr-4": {
+            "Funbrew\\HelloComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "taiki.kanai",
+            "email": "kanai@funbrew.tech"
+        }
+    ],
+    "require": {}
+}
